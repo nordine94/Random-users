@@ -1,6 +1,6 @@
 import './App.css';
-import Navbar from './components/Navbar';
-import Users from './components/Users';
+import Navbar from './components/navbar/Navbar';
+import Users from './components/users/Users';
 
 function App() {
   return (
