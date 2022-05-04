@@ -75,3 +75,6 @@ flex-direction: column;
   transition: transform 0.3s ease;
 }
 
+h1 {
+  text-align: center;
+}
